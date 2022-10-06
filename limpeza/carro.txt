@@ -1,2 +1,0 @@
-Possível simples maneira de limpar sensores de sujeiras automaticamente nos veículos.
-Coloca-se um bico injetor de combustível ou solução solvente logo após o sensor de fluxo de ar, assim, tal líquido será possível em limpar todo o trajeto.
